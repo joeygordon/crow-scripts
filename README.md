@@ -1,5 +1,5 @@
 # 🐦 Crow Scripts
-A collection of scripts for the Monome/Whimsical rap [Crow](https://monome.org/docs/crow/)
+A collection of scripts for the Monome/Whimsical Raps [Crow](https://monome.org/docs/crow/)
 
 ---
 
