@@ -5,4 +5,5 @@ A collection of scripts for the Monome/Whimsical Raps [Crow](https://monome.org/
 
 ---
 
-_(stuff coming soon)_
+## Scripts
+- [Chords](scripts/chords.lua) Quantizer/Chord generator (WIP)
